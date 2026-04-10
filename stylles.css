@@ -54,7 +54,8 @@ ul {
     margin: 10px 0 10px;
     padding-left: 10px;
     text-align: left;
-    color: rgb(0, 0, 0);
+    color: rgb(15, 234, 40);
+    font-size: 18px;
 }
 footer {
     background-color: #0a0101;
