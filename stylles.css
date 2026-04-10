@@ -46,8 +46,9 @@ p {
 }
 mark {
     color: red;
-    background-color: blue;
-    
+    background-color: rgb(165, 226, 34);
+    padding: 2px 5px;
+    border-radius: 5px;
 
 }
 
