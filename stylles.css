@@ -78,4 +78,33 @@ img {
     display: block;
     color: white;
 }
-
+a {
+    color: rgb(15, 234, 40);
+    text-decoration: none;
+    font-weight: bold;
+}
+.panorama {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.route {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+    display: block;
+}
+.vzchod {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+    display: block;
+}
