@@ -7,12 +7,12 @@ head {
 
 body {
     font-family: 'Times New Roman';
+    background-color: blue;
 }
 section{
     margin: 0 ;
     padding: 0;
     text-align: left;
-    background-color: #3916a3;
     font-size: 12px;
 
 }
@@ -60,12 +60,21 @@ footer {
     color: #0b9c32;
     padding: 20px;
     text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+footer p {
+    margin: 0 10px;
     font-weight: bolder;
 }
-img {
-    width: 100%;
+
+image {
     height: auto;
     border-radius: 12px;
+    width: auto;
     margin: 10px 0 10px;
     display: block;
 }
+
