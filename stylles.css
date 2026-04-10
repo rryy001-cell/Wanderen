@@ -1,6 +1,6 @@
 head {
   
-    color: #12d64d;
+    color: #eff3f0;
     padding: 20px;
     text-align: center;
 }
@@ -42,10 +42,10 @@ p {
     line-height: 1.6;
     margin: 10px 0 10px;
     text-align: left;
-    color: rgb(29, 224, 104);
+    color: white;
 }
 mark {
-    font-color: red;
+    flood-color: red;
 
 }
 
@@ -54,7 +54,7 @@ ul {
     margin: 10px 0 10px;
     padding-left: 10px;
     text-align: left;
-    color: rgb(15, 234, 40);
+    color: rgb(235, 240, 235);
     font-size: 18px;
 }
 footer {
@@ -76,11 +76,10 @@ img {
     width: auto;
     margin: 10px 0 10px;
     display: block;
-    color: white;
 }
 a {
-    color: rgb(15, 234, 40);
-    text-decoration: none;
+    color: rgb(245, 70, 6);
+    padding: 5px 10px;
     font-weight: bold;
 }
 .panorama {
@@ -91,13 +90,15 @@ a {
     margin-bottom: 10px;
 }
 .route {
-    width: 100%;
+    width: 80%;
     height: auto;
     border-radius: 12px;
     margin-top: 10px;
     margin-bottom: 10px;
     align-items: center;
     display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 .vzchod {
     width: 100%;
@@ -107,4 +108,6 @@ a {
     margin-bottom: 10px;
     align-items: center;
     display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
