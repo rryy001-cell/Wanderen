@@ -1,6 +1,6 @@
 head {
-    background-color: #f0f0f0;
-    color: #333;
+  
+    color: #12d64d;
     padding: 20px;
     text-align: center;
 }
@@ -8,6 +8,7 @@ head {
 body {
     font-family: 'Times New Roman';
     background-color: blue;
+    color: green;
 }
 section{
     margin: 0 ;
@@ -19,7 +20,7 @@ section{
 h1 {
     font-size: 36px;
     margin: 0;
-    color:rgb(4, 1, 1);
+    color:rgb(249, 248, 248);
     margin: 20px 0 10px;
     align-items: center;
    
@@ -27,13 +28,13 @@ h1 {
 h2 {
     font-size: 30px;
     margin: 20px 0 10px;
-    color: black;
+    color: rgb(249, 247, 247);
     align-items: center;
 }
 h3 {
     font-size: 25px;
     margin: 20px 0 10px;
-    color: black;
+    color: rgb(250, 248, 248);
     align-items: center;
 }
 p {
@@ -41,7 +42,7 @@ p {
     line-height: 1.6;
     margin: 10px 0 10px;
     text-align: left;
-    color: black;
+    color: rgb(29, 224, 104);
 }
 mark {
     font-color: red;
@@ -53,7 +54,7 @@ ul {
     margin: 10px 0 10px;
     padding-left: 10px;
     text-align: left;
-    color: black;
+    color: rgb(0, 0, 0);
 }
 footer {
     background-color: #0a0101;
