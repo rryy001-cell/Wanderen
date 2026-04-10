@@ -67,10 +67,11 @@ footer {
     margin-top: 16px;
     display: flex;
     justify-content: center;
-    gap: 25px;
+    
 }
 footer p {
     font-weight: bolder;
+    gap: 10px;
 }
 
 img {
@@ -129,8 +130,9 @@ div {
     margin-left: auto;
     margin-right: auto;
 }
-.uvod {
+p.uvod {
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 16px;
+    font-style: italic;
 }
