@@ -8,7 +8,7 @@ head {
 body {
     font-family: 'Times New Roman';
     background-color: blue;
-    color: green;
+    color: rgb(243, 245, 243);
 }
 section{
     margin: 0 ;
@@ -58,20 +58,19 @@ ul {
     font-size: 18px;
 }
 footer {
-    background-color: #0a0101;
+    background-color: black;
     padding: 20px;
-    text-align: center;
+    color: white;
+    align-items: center;
     margin-top: 20px;
-    margin-bottom: 10px;
     display: flex;
     justify-content: center;
 }
 footer p {
-    margin: 0 10px;
     font-weight: bolder;
 }
 
-image {
+img {
     height: auto;
     border-radius: 12px;
     width: auto;
