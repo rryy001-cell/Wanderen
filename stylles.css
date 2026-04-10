@@ -83,6 +83,7 @@ a {
     color: rgb(245, 70, 6);
     padding: 5px 10px;
     font-weight: bold;
+    display: inline;
 }
 .panorama {
     width: 100%;
@@ -118,4 +119,10 @@ a {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+}
+div {
+    text-align: center;
+    color: white;
+    padding: 10px 10px;
+    font-size: 10px;
 }
